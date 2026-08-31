@@ -89,3 +89,9 @@ th, td {
     max-width: 100px;
     margin: auto;
 }
+
+.creature {
+    height: auto;
+    width: 170px;
+    border: 10px solid grey;
+}
